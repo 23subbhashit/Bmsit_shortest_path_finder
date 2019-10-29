@@ -1,0 +1,270 @@
+{
+  "project_info": {
+    "project_number": "740842094947",
+    "firebase_url": "https://maza-fece2.firebaseio.com",
+    "project_id": "maza-fece2",
+    "storage_bucket": "maza-fece2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:86b212515eb0e344",
+        "android_client_info": {
+          "package_name": "acin.subbhashit.www.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-lp9o6ulv17ojrk3686pp2s93f1v0ua5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "acin.subbhashit.www.to_do",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:057e493cb6a91f9c60d356",
+        "android_client_info": {
+          "package_name": "com.cards.www.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-6eusfdb3svvvt3t0vgh2a3pk2qlt2f47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cards.www.todolist",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:a41c8dfa17f433cd",
+        "android_client_info": {
+          "package_name": "com.gobhadwa.www.bhadwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-9gumi48ib2k9a72n3q4svdbm3nf7m5io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobhadwa.www.bhadwa",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:14c344b8f778fcff",
+        "android_client_info": {
+          "package_name": "com.gobhadwa.www.op"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-a1sf7ufti663jdnu60igs265s53m2edr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobhadwa.www.op",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:e19d1ce0be05054260d356",
+        "android_client_info": {
+          "package_name": "com.openstreet.www.bmsit_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-li9aaulctvoa5hn23hootjp32dmctnl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openstreet.www.bmsit_map",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:48f72a53cbf79e5160d356",
+        "android_client_info": {
+          "package_name": "com.openstreet.www.maps_bmsit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-b9c2nhoajj0jbvh82lac9a4gre685jcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openstreet.www.maps_bmsit",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740842094947:android:03ac73b7cf9d65d5",
+        "android_client_info": {
+          "package_name": "in.todo.www.togo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740842094947-bi9eshanmhigc6q0nsb2ui9u45iri4ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.todo.www.togo",
+            "certificate_hash": "8ae5f91cfe31baef46a400f60ce1bdba3c12f69a"
+          }
+        },
+        {
+          "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQCiBlLW_zw5O0rjHugKMt4wBQ75CpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740842094947-ncie0o35jesb22rjakc3u0t9tqa6q757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
